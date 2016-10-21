@@ -1,13 +1,24 @@
 {
-  "name": "smak-natury",
+  "name": "gulp-sample",
   "version": "1.0.0",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Dawid Wojnowski",
+  "description": "",
+  "main": "gulpfile.js",
   "devDependencies": {
     "browser-sync": "^2.17.3",
     "gulp": "^3.9.1",
     "gulp-sass": "^2.3.2"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IP63/Gulp-sample.git"
+  },
+  "author": "Dawid Wojnowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IP63/Gulp-sample/issues"
+  },
+  "homepage": "https://github.com/IP63/Gulp-sample#readme"
 }
