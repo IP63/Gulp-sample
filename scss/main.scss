@@ -1,0 +1,13 @@
+// @import „base/__base”;
+// @import „components/__components”;
+// @import „fonts/__fonts”;
+// @import „helpers/__helpers”;
+// @import „pages/__pages”;
+// @import „__shame.scss”;
+
+$bg-color: #0e0e0e;
+
+body {
+  background-color: $bg-color;
+  color: #c5e5e5;
+}
