@@ -1,6 +1,6 @@
 ## What is it?
 
-Package provides simple Gulp configuration with SASS compilation and auto browser sync.
+Package provides simple Gulp configuration with SASS compilation and browser auto refresh.
 
 ## Getting started
 
