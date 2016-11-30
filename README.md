@@ -10,7 +10,7 @@ Repository setup:
 * `gulp` (with `gulp-sass`)
 * `browser-sync`
 
-### First start
+### First run
 
 Install dependencies, running `npm install`.
 
